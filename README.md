@@ -26,3 +26,6 @@ By default if you dont specify path the log txt file will be saved in MyDocument
 ```csharp
 sg.savepath = "D:\\myfolder";
 ```
+
+#### Example Log ####
+![Example](SharpLogging/1.PNG)
