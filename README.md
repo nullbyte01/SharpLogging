@@ -28,4 +28,4 @@ sg.savepath = "D:\\myfolder";
 ```
 
 #### Example Log ####
-![Example](SharpLogging/1.PNG)
+![Example](https://github.com/nullbyte01/SharpLogging/blob/master/1.PNG)
