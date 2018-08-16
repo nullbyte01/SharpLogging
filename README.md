@@ -1,5 +1,5 @@
 # SharpLogging
-[![GitHub license](https://img.shields.io/github/license/nullbyte01/SharpLogging.svg)](https://github.com/nullbyte01/SharpLogging/blob/master/LICENSE) [![NuGet](https://img.shields.io/nuget/dt/SharpLogging.svg)](https://www.nuget.org/packages/SharperLogNet/)
+[![GitHub license](https://img.shields.io/github/license/nullbyte01/SharpLogging.svg)](https://github.com/nullbyte01/SharpLogging/blob/master/LICENSE) [![NuGet](https://img.shields.io/nuget/dt/SharpLogging.svg)](https://www.nuget.org/packages/SharperLogNet/) [![Nuget Version](https://img.shields.io/nuget/v/SharpLogging.svg)](https://www.nuget.org/packages/SharperLogNet/)
 
 A Log library developed in C# for .NET Framework, easy to use and minimalist.
 To use library either download from here or you can use NuGet Package Manager.
