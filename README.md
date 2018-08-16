@@ -3,6 +3,9 @@ A Log library developed in C# for .NET Framework, easy to use and minimalist.
 To use library either download from here or you can use NuGet Package Manager.
 
 #### Get it from NuGet
+```
+Install-Package SharperLogNet -Version 1.1.0
+```
 
 Or Add Refrences by right clicking on your solution and adding references.
 
